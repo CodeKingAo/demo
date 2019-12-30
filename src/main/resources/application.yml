@@ -1,0 +1,8 @@
+# 端口配置
+server:
+  port: 9999
+
+# 基本配置
+spring:
+  profiles:
+    active: mybatisconfig
